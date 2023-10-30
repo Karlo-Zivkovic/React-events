@@ -15,3 +15,7 @@ Vite project with few other Libraries. Modal window for some features
 - <b>npm install</b>
 - <b>npm start (in backend directory)</b>
 - <b>npm run dev (in main directory)</b>
+
+<h2>Project screenshot</h2>
+
+<img src="https://i.imgur.com/ab4GhfH.png" height="80%" width="80%" alt="project dashboard"/>
